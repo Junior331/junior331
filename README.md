@@ -9,25 +9,19 @@
      <table align="left">
       <tr>
           <td>
-              <img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=junior331&count_private=true&hide_border=true" />
+              <img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=junior331&count_private=true&hide_border=true" />
           </td>
           <td>
-              <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior331&layout=compact&hide_border=true" alt="junior331" />                   </td>
+              <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior331&layout=compact&hide_border=true" alt="junior331" />                   </td>
       </tr>  
     </table>
 </center>
 
-<br>
-
-
-
-
-
-Things I like to do:
+- Things I like to do:
 - 🖥 Web Applications
 - 📱 Applications
 - :coffee: Coffee
-
+<br></br>
 - 💬 Ask me about **javascript, typescript, angular, react, styled-components**
 
 - 📫 How to reach me **jarilson.rk@gmail.com**
@@ -35,3 +29,15 @@ Things I like to do:
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/jarilson-reis-b624a3172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junior331" height="30" width="40" /></a>
 </p>
+<!--
+**jarilsonjunior/jarilsonjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
