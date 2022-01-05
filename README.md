@@ -17,6 +17,11 @@
     </table>
 </center>
 
+
+
+
+
+
 Things I like to do:
 - 🖥 Web Applications
 - 📱 Applications
