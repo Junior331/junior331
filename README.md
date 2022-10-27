@@ -22,7 +22,7 @@
 - 📱 Applications
 - :coffee: Coffee
 <br></br>
-- 💬 Ask me about **javascript, typescript, angular, react, styled-components**
+- 💬 Ask me about **javascript, typescript, angular, react, nextJs, vue, redux, styled-components**
 
 - 📫 How to reach me **jarilson.rk@gmail.com**
 <p align="left">
