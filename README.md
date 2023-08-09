@@ -1,4 +1,4 @@
-![snake gif](https://github.com/Junior331/Junior331/blob/output/github-contribution-grid-snake.gif)
+
 
 <h1 align="center">Hi 👋, I'm Jarilson junior</h1>
 <h3 align="center">frontend developer</h3>
@@ -31,6 +31,11 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/jarilson-reis-b624a3172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junior331" height="30" width="40" /></a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!--
 **jarilsonjunior/jarilsonjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
