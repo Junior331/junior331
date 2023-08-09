@@ -30,6 +30,20 @@
 <a href="https://www.linkedin.com/in/jarilson-reis-b624a3172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junior331" height="30" width="40" /></a>
 </p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Snake Game</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="snake-game"></div>
+  <script src="snake.js"></script>
+</body>
+</html>
+
 <!--
 **jarilsonjunior/jarilsonjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
