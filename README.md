@@ -32,9 +32,9 @@
 <a href="https://www.linkedin.com/in/jarilson-reis-b624a3172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junior331" height="30" width="40" /></a>
 </p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="[github-snake.svg](https://github.com/Junior331/Junior331/blob/output/github-contribution-grid-snake.svg)" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Junior331/Junior331/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Junior331/Junior331/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="snake" src="https://github.com/Junior331/Junior331/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ![Junior331 snake gif](https://github.com/Junior331/Junior331/blob/output/github-contribution-grid-snake.svg)
