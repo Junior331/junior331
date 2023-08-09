@@ -36,6 +36,8 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+![Junior331 snake gif](https://github.com/Junior331/Junior331/blob/output/github-contribution-grid-snake.svg)
 <!--
 **jarilsonjunior/jarilsonjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
