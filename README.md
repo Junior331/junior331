@@ -25,8 +25,8 @@
 - 💬 Ask me about **javascript, typescript, angular, react, nextJs, vue, redux, styled-components**
 
 - 📫 How to reach me **jarilson.rk@gmail.com**
-<p align="left">
 ![snake gif](https://github.com/Junior331/Junior331/blob/output/github-contribution-grid-snake.svg)
+<p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/jarilson-reis-b624a3172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="junior331" height="30" width="40" /></a>
 </p>
